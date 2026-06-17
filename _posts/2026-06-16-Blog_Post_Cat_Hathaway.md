@@ -1,4 +1,4 @@
-# Seeing the Unseen: How Cat Hathaway is Crafting the Tools for Space Exploration
+# "Seeing the Unseen": How Cat Hathaway is Crafting the Tools for Space Exploration
 
 *Kai Phung*
 
@@ -18,7 +18,7 @@ Today, instead of grading math papers, Cat spends their time in the Nanofabricat
 
 **Why “In-House” is Better**
 
-You might think a huge telescope project like this would just order parts from a catalog, but for work on these space instruments, “standard” isn't good enough. Cat focuses on manufacturing specific optical pieces—like mirrors and masks—that are the size of a quarter! She explained that if you look closely at your hand, which seems smooth, you will actually begin to see all the texture and roughness. This is similar to the mirrors produced by companies like Nikon. They may look perfectly smooth, but actually have bumps that distort their usefulness.
+You might think a huge telescope project like this would just order parts from a catalog, but for work on these space instruments, “standard” isn't good enough. Cat focuses on manufacturing specific optical pieces—like mirrors and masks—that are the size of a quarter! They explained that if you look closely at your hand, which seems smooth, you will actually begin to see all the texture and roughness. This is similar to the mirrors produced by companies like Nikon. They may look perfectly smooth, but actually have bumps that distort their usefulness.
 - Custom Precision: By making these parts at the U of A, the team can create tools that fit the telescope’s needs exactly, rather than building the telescope around what is available to buy.
 - Superior Quality: Parts made in the lab are often “levels better” than industry standards. In fact, some of the team’s manufactured pieces look “perfect” compared to blurry versions sold by big distributors.
 - Special Coatings: Cat uses a machine to coat these tiny mirrors with materials like aluminum. Aluminum is highly reflective and helps prevent the mirrors from absorbing heat, which could warp their shape and ruin the image.
@@ -40,7 +40,7 @@ Cat’s work isn’t just a big deal in Arizona; it has caught the attention of 
 
 **The Big Picture**
 
-For Cat, this work is about more than just physics; it's about a deep curiosity to explore the unknown. With experience in photography, Cat views telescopes as “big cameras” that allow us to push past the limits of our own eyes. Through a talk by Hongki Yoo (https://pure.kaist.ac.kr/en/persons/hongki-yoo/ ), Cat was able to articulate her motivation for work in space. Yoo described this urge for space exploration as seeking to “see the unseen.” By “seeing the unseen,” Cat and the team at the University of Arizona Space Astrophysics Lab (UASAL) are helping us understand our place in the universe, one tiny, perfect mirror at a time.
+For Cat, this work is about more than just physics; it's about a deep curiosity to explore the unknown. With experience in photography, Cat views telescopes as “big cameras” that allow us to push past the limits of our own eyes. Through a talk by Hongki Yoo (https://pure.kaist.ac.kr/en/persons/hongki-yoo/ ), Cat was able to articulate their motivation for work in space. Yoo described this urge for space exploration as seeking to “see the unseen.” By “seeing the unseen,” Cat and the team at the University of Arizona Space Astrophysics Lab (UASAL) are helping us understand our place in the universe, one tiny, perfect mirror at a time.
 
 <img src="/assets/blog_images/mmt_telescope.jpg" alt="5 inch and 6 inch diameter Integrating Spheres" width="600"/>
 
