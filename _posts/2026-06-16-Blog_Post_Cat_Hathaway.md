@@ -4,7 +4,7 @@
 
 *University of Arizona*
 
-<img src="/assets/blog_images/2026-04-09-Blog_Post_Jaegun_Kai_Phung_Room.jpg" alt="6 inch and 7 inch diameter Integrating Spheres" width="800"/>
+<img src="/assets/blog_images/femme_photo_club.jpg" alt="4 inch and 6 inch diameter Integrating Spheres" width="600"/>
 
 While many of us look at the stars and see points of light, Cat Hathaway and the team at the University of Arizona’s Steward Observatory are looking for what’s hidden in between. As a PhD student in Optical Sciences, Cat plays a key role in building instruments for a space telescope designed to show us things we’ve never seen before.
 
@@ -22,8 +22,8 @@ You might think a huge telescope project like this would just order parts from a
 - Superior Quality: Parts made in the lab are often “levels better” than industry standards. In fact, some of the team’s manufactured pieces look “perfect” compared to blurry versions sold by big distributors.
 - Special Coatings: Cat uses a machine to coat these tiny mirrors with materials like aluminum. Aluminum is highly reflective and helps prevent the mirrors from absorbing heat, which could warp their shape and ruin the image.
 
-<img src="/assets/blog_images/2026-04-09-Blog_Post_Jaegun_Kai_Phung_Room.jpg" alt="6 inch and 7 inch diameter Integrating Spheres" width="800"/>
-<img src="/assets/blog_images/2026-04-09-Blog_Post_Jaegun_Kai_Phung_Room.jpg" alt="6 inch and 7 inch diameter Integrating Spheres" width="800"/>
+<img src="/assets/blog_images/osc_cleanroom1.jpg" alt="3 inch and 4 inch diameter Integrating Spheres" width="400"/>
+<img src="/assets/blog_images/osc_cleanroom2.jpg" alt="3 inch and 4 inch diameter Integrating Spheres" width="300"/>
 
 *U of A Optical Science Cleanroom*
 
@@ -40,3 +40,5 @@ Cat’s work isn’t just a big deal in Arizona; it has caught the attention of 
 **The Big Picture**
 
 For Cat, this work is about more than just physics; it's about a deep curiosity to explore the unknown. With experience in photography, Cat views telescopes as “big cameras” that allow us to push past the limits of our own eyes. Through a talk by Hongki Yoo (https://pure.kaist.ac.kr/en/persons/hongki-yoo/ ), Cat was able to articulate her motivation for work in space. Yoo described this urge for astronomers and scientists as seeking to “see the unseen.” By “seeing the unseen,” Cat and the team at the University of Arizona Space Astrophysics Lab (UASAL) are helping us understand our place in the universe, one tiny, perfect mirror at a time.
+
+<img src="/assets/blog_images/mmt_telescope.jpg" alt="5 inch and 6 inch diameter Integrating Spheres" width="600"/>
