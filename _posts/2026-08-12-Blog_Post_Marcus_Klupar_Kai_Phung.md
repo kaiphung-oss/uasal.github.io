@@ -4,6 +4,8 @@
 
 *University of Arizona*
 
+*August 2026*
+
 <img src="/assets/blog_images/MK_Headshot.jpg" alt="3 inch and 5 inch diameter Integrating Spheres" width="500"/>
 
 From salmon to the stars, Marcus Klupar’s journey into aerospace engineering has been driven by his understanding of control systems and deep curiosity to answer tough questions. 
