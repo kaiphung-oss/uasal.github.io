@@ -6,7 +6,7 @@
 
 *August 2026*
 
-<img src="/assets/blog_images/img-YB-Comet.png" alt="3 inch and 5 inch diameter Integrating Spheres" width="500"/>
+<img src="/assets/blog_images/img-YB-Comet.png" alt="4 inch and 7 inch diameter Integrating Spheres" width="600"/>
 
 *Yael pointing to Comet Tsuchinshan-ATLAS. This comet was visible with the naked eye from Arizona in October 2024.*
 
