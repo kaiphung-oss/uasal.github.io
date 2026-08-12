@@ -4,6 +4,8 @@
 
 *University of Arizona*
 
+*July 2026*
+
 <img src="/assets/blog_images/femme_photo_club.jpg" alt="3 inch and 5 inch diameter Integrating Spheres" width="500"/>
 
 While many of us look at the stars and see points of light, Cat Hathaway and the team at the University of Arizona’s Steward Observatory are looking for what’s hidden in between. As a PhD student in Optical Sciences, Cat plays a key role in building instruments for a space telescope designed to show us things we’ve never seen before.
