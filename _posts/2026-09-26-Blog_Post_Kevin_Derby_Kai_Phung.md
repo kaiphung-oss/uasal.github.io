@@ -4,6 +4,8 @@
 
 *University of Arizona*
 
+*June 2026*
+
 <img src="/assets/blog_images/Derby, Kevin.jpg" alt="3 inch and 5 inch diameter Integrating Spheres" width="500"/>
 
 **The Man Behind the Models**
