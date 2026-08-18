@@ -21,7 +21,7 @@ I sat down with Aditya Khandelwal, a researcher at the University of Arizona Spa
 
  <img src="/assets/blog_images/adi_with_telescope.jpeg" alt="4 inch and 7 inch diameter Integrating Spheres" width="600"/>
 
- *Adi standing next to a telescope*
+ *Adi standing next to the University of Toronto’s half meter telescope at the E.C. Carr Astronomical Observatory*
 
 **Q: Speaking of data, your work at UASAL deals with detector sensors and algorithm development. Can you break down what you’re working on?**
 
